@@ -1,0 +1,28 @@
+2020-08-23 17:07:27 INFO  Loglama.SaveOgrenci:14 - 45.0
+2020-08-23 17:08:04 INFO  Loglama.SaveOgrenci:14 - 45.0
+2020-08-23 17:09:52 INFO  Loglama.SaveOgrenci:14 - dskjfbkjsdbfjksbf45.0
+2020-08-23 17:10:03 INFO  Loglama.SaveOgrenci:14 - dskjfbkjsdbfjksbf45.0
+2020-08-23 17:10:26 INFO  Loglama.SaveOgrenci:14 - dskjfbkjsdbfjksbf45.0
+2020-08-23 17:10:34 INFO  Loglama.SaveOgrenci:14 - dskjfbkjsdbfjksbf45.0
+2020-08-23 17:26:06 INFO  Loglama.SaveOgrenci:8 - save methodu calısıyopr
+2020-08-23 17:26:06 ERROR Loglama.SaveOgrenci:13 -
+2020-08-23 17:26:36 INFO  Loglama.SaveOgrenci:8 - save methodu calısıyopr
+2020-08-23 17:26:51 ERROR Loglama.SaveOgrenci:13 -
+2020-08-23 17:27:08 INFO  Loglama.SaveOgrenci:8 - save methodu calısıyopr
+2020-08-23 17:28:22 INFO  Loglama.SaveOgrenci:8 - save methodu calısıyopr
+2020-08-23 17:28:24 ERROR Loglama.SaveOgrenci:13 - java.lang.NullPointerException
+java.lang.Throwable
+	at Loglama.SaveOgrenci.main(Loglama.SaveOgrenci.java:13)
+2020-08-23 17:29:12 INFO  Loglama.SaveOgrenci:8 - save methodu calısıyopr
+2020-08-23 17:29:12 ERROR Loglama.SaveOgrenci:14 - java.lang.NullPointerException
+java.lang.Throwable
+	at Loglama.SaveOgrenci.main(Loglama.SaveOgrenci.java:14)
+2020-08-23 17:29:30 INFO  Loglama.SaveOgrenci:8 - save methodu calısıyopr
+2020-08-23 17:29:30 ERROR Loglama.SaveOgrenci:13 - java.lang.NullPointerException
+java.lang.Throwable
+	at Loglama.SaveOgrenci.main(Loglama.SaveOgrenci.java:13)
+2020-08-23 17:29:30 INFO  Loglama.SaveOgrenci:15 - throw geçildi
+2020-08-23 17:30:12 INFO  Loglama.SaveOgrenci:9 - save methodu calısıyopr
+2020-08-23 17:30:12 ERROR Loglama.SaveOgrenci:14 - java.lang.NullPointerException
+java.lang.Throwable
+	at Loglama.SaveOgrenci.main(Loglama.SaveOgrenci.java:14)
